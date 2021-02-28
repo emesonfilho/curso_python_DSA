@@ -1,0 +1,1 @@
+Testando a criação mais escrite de arquivos em python!
